@@ -1,3 +1,14 @@
+# Обновление
+
+Описанная ниже ошибка была исправлена в обновлении прошивки от 20.09.2023 года
+
+Ниже ссылки на загрузку исправленных прошивок
+
+- [FD1216S-R1](firmware/FD1216S_Image_V1.6.0_230920_10997_X000.img)
+- [FD1208S-R1](firmware/FD1208S_Image_V1.6.0_230920_10997_X000.img)
+- [FD1216S-B1](firmware/FD1216S_B0_Image_V1.6.0_230920_10997_X000.img)
+
+
 # Описание ошибки в оборудовании C-DATA FD1216S
 
 На всех OLT серии FD1216S включая версии R1, B1 и на всех доступных нам прошивках проявляется потеря пакетов при передачи трафика из 10GE порта в PON порт. Причем потери достигают 60% от всего трафика.
@@ -96,7 +107,15 @@
 В OLT АFD1216S присутствует ошибка при передаче пакетов из 10G порта в 1G EPON порт.
 
 
+# Update
 
+The error described below was fixed in the firmware update from 09/20/2023
+
+Below are links to download fixed firmware
+
+- [FD1216S-R1](firmware/FD1216S_Image_V1.6.0_230920_10997_X000.img)
+- [FD1208S-R1](firmware/FD1208S_Image_V1.6.0_230920_10997_X000.img)
+- [FD1216S-B1](firmware/FD1216S_B0_Image_V1.6.0_230920_10997_X000.img)
 
 # Description of the error in the C-DATA FD1216S hardware
 
